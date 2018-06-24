@@ -1,0 +1,28 @@
+<mvc:View controllerName="com.rizing.demo.controller.Master" xmlns:mvc="sap.ui.core.mvc" xmlns:core="sap.ui.core" xmlns="sap.m">
+	<Page id="page" title="{i18n>masterTitle}">
+		<content>
+			<List id="detailList"
+				mode="{= ${device>/system/phone} ? 'None' : 'SingleSelectMaster'}" 
+				growing="true" 
+				growingScrollToLoad="true"
+				updateFinished="onUpdateFinished" 
+				selectionChange="onSelectionChange">
+				<headerToolbar>
+					<Toolbar>
+						<ToolbarSpacer/>
+						<SearchField placeholder="SO ID" showSearchButton="true" width="75%" search="onSearchFieldSearch"/>
+					</Toolbar>
+				</headerToolbar>
+				<items>
+					<ObjectListItem 
+						id="detailItem"
+						type="{= ${device>/system/phone} ? 'Active' : 'Inactive'}" 
+						press="onSelectionChange" 
+						title="{SoId}"
+						number="{path: 'GrossAmount', formatter: '.formatter.currencyValue'}" 
+						numberUnit="{CurrencyCode}"></ObjectListItem>
+				</items>
+			</List>
+		</content>
+	</Page>
+</mvc:View>

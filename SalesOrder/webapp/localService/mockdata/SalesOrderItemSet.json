@@ -1,0 +1,2075 @@
+[{
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1000",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "1137.640",
+	"NetAmount": "956.000",
+	"TaxAmount": "181.640",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1001",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000020",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "2972.620",
+	"NetAmount": "2498.000",
+	"TaxAmount": "474.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1002",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000030",
+	"CurrencyCode": "USD",
+	"GrossAmount": "3736.600",
+	"NetAmount": "3140.000",
+	"TaxAmount": "596.600",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1003",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000040",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "3927.000",
+	"NetAmount": "3300.000",
+	"TaxAmount": "627.000",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1007",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000050",
+	"CurrencyCode": "USD",
+	"GrossAmount": "1067.430",
+	"NetAmount": "897.000",
+	"TaxAmount": "170.430",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1010",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000060",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "4757.620",
+	"NetAmount": "3998.000",
+	"TaxAmount": "759.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1011",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000070",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "5471.620",
+	"NetAmount": "4598.000",
+	"TaxAmount": "873.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='80')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='80')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "80",
+	"ProductId": "HT-1030",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000080",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "547.400",
+	"NetAmount": "460.000",
+	"TaxAmount": "87.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='90')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='90')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "90",
+	"ProductId": "HT-1031",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000090",
+	"CurrencyCode": "GBP",
+	"GrossAmount": "1017.450",
+	"NetAmount": "855.000",
+	"TaxAmount": "162.450",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='100')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000000',SoItemPos='100')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000000",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "100",
+	"ProductId": "HT-1032",
+	"Note": "EPM DG: SO ID 0500000000 Item 0000000100",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "1231.650",
+	"NetAmount": "1035.000",
+	"TaxAmount": "196.650",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1030",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "547.400",
+	"NetAmount": "460.000",
+	"TaxAmount": "87.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1031",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000020",
+	"CurrencyCode": "GBP",
+	"GrossAmount": "339.150",
+	"NetAmount": "285.000",
+	"TaxAmount": "54.150",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1032",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000030",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "821.100",
+	"NetAmount": "690.000",
+	"TaxAmount": "131.100",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1035",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000040",
+	"CurrencyCode": "USD",
+	"GrossAmount": "949.620",
+	"NetAmount": "798.000",
+	"TaxAmount": "151.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1036",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000050",
+	"CurrencyCode": "CAD",
+	"GrossAmount": "1023.400",
+	"NetAmount": "860.000",
+	"TaxAmount": "163.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1037",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000060",
+	"CurrencyCode": "MXN",
+	"GrossAmount": "2927.400",
+	"NetAmount": "2460.000",
+	"TaxAmount": "467.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1020",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000070",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "1638.630",
+	"NetAmount": "1377.000",
+	"TaxAmount": "261.630",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='80')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='80')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "80",
+	"ProductId": "HT-1021",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000080",
+	"CurrencyCode": "MXN",
+	"GrossAmount": "531.930",
+	"NetAmount": "447.000",
+	"TaxAmount": "84.930",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='90')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='90')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "90",
+	"ProductId": "HT-1022",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000090",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "3996.020",
+	"NetAmount": "3358.000",
+	"TaxAmount": "638.020",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='100')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000001',SoItemPos='100')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000001",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "100",
+	"ProductId": "HT-1023",
+	"Note": "EPM DG: SO ID 0500000001 Item 0000000100",
+	"CurrencyCode": "USD",
+	"GrossAmount": "1827.840",
+	"NetAmount": "1536.000",
+	"TaxAmount": "291.840",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000002",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1040",
+	"Note": "EPM DG: SO ID 0500000002 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "2963.100",
+	"NetAmount": "2490.000",
+	"TaxAmount": "473.100",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000002",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1041",
+	"Note": "EPM DG: SO ID 0500000002 Item 0000000020",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "583.100",
+	"NetAmount": "490.000",
+	"TaxAmount": "93.100",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000002",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1042",
+	"Note": "EPM DG: SO ID 0500000002 Item 0000000030",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "830.620",
+	"NetAmount": "698.000",
+	"TaxAmount": "132.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000002",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1050",
+	"Note": "EPM DG: SO ID 0500000002 Item 0000000040",
+	"CurrencyCode": "RUB",
+	"GrossAmount": "330.820",
+	"NetAmount": "278.000",
+	"TaxAmount": "52.820",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000002",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1051",
+	"Note": "EPM DG: SO ID 0500000002 Item 0000000050",
+	"CurrencyCode": "USD",
+	"GrossAmount": "117.810",
+	"NetAmount": "99.000",
+	"TaxAmount": "18.810",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000002",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1052",
+	"Note": "EPM DG: SO ID 0500000002 Item 0000000060",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "404.600",
+	"NetAmount": "340.000",
+	"TaxAmount": "64.600",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000002",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1055",
+	"Note": "EPM DG: SO ID 0500000002 Item 0000000070",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "117.810",
+	"NetAmount": "99.000",
+	"TaxAmount": "18.810",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='80')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000002',SoItemPos='80')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000002",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "80",
+	"ProductId": "HT-1056",
+	"Note": "EPM DG: SO ID 0500000002 Item 0000000080",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "283.220",
+	"NetAmount": "238.000",
+	"TaxAmount": "45.220",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000003",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1073",
+	"Note": "EPM DG: SO ID 0500000003 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "499.760",
+	"NetAmount": "419.970",
+	"TaxAmount": "79.790",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000003",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1080",
+	"Note": "EPM DG: SO ID 0500000003 Item 0000000020",
+	"CurrencyCode": "INR",
+	"GrossAmount": "460.530",
+	"NetAmount": "387.000",
+	"TaxAmount": "73.530",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000003",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1081",
+	"Note": "EPM DG: SO ID 0500000003 Item 0000000030",
+	"CurrencyCode": "PLN",
+	"GrossAmount": "317.730",
+	"NetAmount": "267.000",
+	"TaxAmount": "50.730",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000003",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1082",
+	"Note": "EPM DG: SO ID 0500000003 Item 0000000040",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "201.110",
+	"NetAmount": "169.000",
+	"TaxAmount": "32.110",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000003',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000003",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1083",
+	"Note": "EPM DG: SO ID 0500000003 Item 0000000050",
+	"CurrencyCode": "CNY",
+	"GrossAmount": "224.910",
+	"NetAmount": "189.000",
+	"TaxAmount": "35.910",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000004",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1100",
+	"Note": "EPM DG: SO ID 0500000004 Item 0000000010",
+	"CurrencyCode": "USD",
+	"GrossAmount": "213.960",
+	"NetAmount": "179.800",
+	"TaxAmount": "34.160",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000004",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1101",
+	"Note": "EPM DG: SO ID 0500000004 Item 0000000020",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "95.080",
+	"NetAmount": "79.900",
+	"TaxAmount": "15.180",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000004",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1102",
+	"Note": "EPM DG: SO ID 0500000004 Item 0000000030",
+	"CurrencyCode": "USD",
+	"GrossAmount": "164.220",
+	"NetAmount": "138.000",
+	"TaxAmount": "26.220",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000004",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1103",
+	"Note": "EPM DG: SO ID 0500000004 Item 0000000040",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "91.630",
+	"NetAmount": "77.000",
+	"TaxAmount": "14.630",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000004',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000004",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1104",
+	"Note": "EPM DG: SO ID 0500000004 Item 0000000050",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "196.350",
+	"NetAmount": "165.000",
+	"TaxAmount": "31.350",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000005",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1500",
+	"Note": "EPM DG: SO ID 0500000005 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "5950.000",
+	"NetAmount": "5000.000",
+	"TaxAmount": "950.000",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000005",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1501",
+	"Note": "EPM DG: SO ID 0500000005 Item 0000000020",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "35700.000",
+	"NetAmount": "30000.000",
+	"TaxAmount": "5700.000",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000005",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1502",
+	"Note": "EPM DG: SO ID 0500000005 Item 0000000030",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "59500.000",
+	"NetAmount": "50000.000",
+	"TaxAmount": "9500.000",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000005",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1110",
+	"Note": "EPM DG: SO ID 0500000005 Item 0000000040",
+	"CurrencyCode": "USD",
+	"GrossAmount": "31.770",
+	"NetAmount": "26.700",
+	"TaxAmount": "5.070",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000005",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1111",
+	"Note": "EPM DG: SO ID 0500000005 Item 0000000050",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "16.420",
+	"NetAmount": "13.800",
+	"TaxAmount": "2.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000005",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1112",
+	"Note": "EPM DG: SO ID 0500000005 Item 0000000060",
+	"CurrencyCode": "GBP",
+	"GrossAmount": "92.820",
+	"NetAmount": "78.000",
+	"TaxAmount": "14.820",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000005',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000005",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1113",
+	"Note": "EPM DG: SO ID 0500000005 Item 0000000070",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "8.210",
+	"NetAmount": "6.900",
+	"TaxAmount": "1.310",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000006',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000006',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000006",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1105",
+	"Note": "EPM DG: SO ID 0500000006 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "103.530",
+	"NetAmount": "87.000",
+	"TaxAmount": "16.530",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000006',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000006',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000006",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1106",
+	"Note": "EPM DG: SO ID 0500000006 Item 0000000020",
+	"CurrencyCode": "MXN",
+	"GrossAmount": "40.460",
+	"NetAmount": "34.000",
+	"TaxAmount": "6.460",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000006',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000006',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000006",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1107",
+	"Note": "EPM DG: SO ID 0500000006 Item 0000000030",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "106.740",
+	"NetAmount": "89.700",
+	"TaxAmount": "17.040",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000007",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1030",
+	"Note": "EPM DG: SO ID 0500000007 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "547.400",
+	"NetAmount": "460.000",
+	"TaxAmount": "87.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000007",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1031",
+	"Note": "EPM DG: SO ID 0500000007 Item 0000000020",
+	"CurrencyCode": "GBP",
+	"GrossAmount": "1017.450",
+	"NetAmount": "855.000",
+	"TaxAmount": "162.450",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000007",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1032",
+	"Note": "EPM DG: SO ID 0500000007 Item 0000000030",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "410.550",
+	"NetAmount": "345.000",
+	"TaxAmount": "65.550",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000007",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1035",
+	"Note": "EPM DG: SO ID 0500000007 Item 0000000040",
+	"CurrencyCode": "USD",
+	"GrossAmount": "949.620",
+	"NetAmount": "798.000",
+	"TaxAmount": "151.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000007",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1036",
+	"Note": "EPM DG: SO ID 0500000007 Item 0000000050",
+	"CurrencyCode": "CAD",
+	"GrossAmount": "1023.400",
+	"NetAmount": "860.000",
+	"TaxAmount": "163.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000007",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1037",
+	"Note": "EPM DG: SO ID 0500000007 Item 0000000060",
+	"CurrencyCode": "MXN",
+	"GrossAmount": "1463.700",
+	"NetAmount": "1230.000",
+	"TaxAmount": "233.700",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000007",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1000",
+	"Note": "EPM DG: SO ID 0500000007 Item 0000000070",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "3412.920",
+	"NetAmount": "2868.000",
+	"TaxAmount": "544.920",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='80')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000007',SoItemPos='80')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000007",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "80",
+	"ProductId": "HT-1001",
+	"Note": "EPM DG: SO ID 0500000007 Item 0000000080",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "1486.310",
+	"NetAmount": "1249.000",
+	"TaxAmount": "237.310",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000008",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1060",
+	"Note": "EPM DG: SO ID 0500000008 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "21.420",
+	"NetAmount": "18.000",
+	"TaxAmount": "3.420",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000008",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1061",
+	"Note": "EPM DG: SO ID 0500000008 Item 0000000020",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "16.660",
+	"NetAmount": "14.000",
+	"TaxAmount": "2.660",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000008",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1062",
+	"Note": "EPM DG: SO ID 0500000008 Item 0000000030",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "26.180",
+	"NetAmount": "22.000",
+	"TaxAmount": "4.180",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000008",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1063",
+	"Note": "EPM DG: SO ID 0500000008 Item 0000000040",
+	"CurrencyCode": "BRL",
+	"GrossAmount": "49.980",
+	"NetAmount": "42.000",
+	"TaxAmount": "7.980",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000008",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1064",
+	"Note": "EPM DG: SO ID 0500000008 Item 0000000050",
+	"CurrencyCode": "CAD",
+	"GrossAmount": "19.040",
+	"NetAmount": "16.000",
+	"TaxAmount": "3.040",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000008',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000008",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1065",
+	"Note": "EPM DG: SO ID 0500000008 Item 0000000060",
+	"CurrencyCode": "CHF",
+	"GrossAmount": "61.880",
+	"NetAmount": "52.000",
+	"TaxAmount": "9.880",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000009',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000009',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000009",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1040",
+	"Note": "EPM DG: SO ID 0500000009 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "1975.400",
+	"NetAmount": "1660.000",
+	"TaxAmount": "315.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000009',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000009',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000009",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1041",
+	"Note": "EPM DG: SO ID 0500000009 Item 0000000020",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "1166.200",
+	"NetAmount": "980.000",
+	"TaxAmount": "186.200",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000009',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000009',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000009",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1042",
+	"Note": "EPM DG: SO ID 0500000009 Item 0000000030",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "830.620",
+	"NetAmount": "698.000",
+	"TaxAmount": "132.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000010",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1070",
+	"Note": "EPM DG: SO ID 0500000010 Item 0000000010",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "168.740",
+	"NetAmount": "141.800",
+	"TaxAmount": "26.940",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000010",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1071",
+	"Note": "EPM DG: SO ID 0500000010 Item 0000000020",
+	"CurrencyCode": "ZAR",
+	"GrossAmount": "194.450",
+	"NetAmount": "163.400",
+	"TaxAmount": "31.050",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000010",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1072",
+	"Note": "EPM DG: SO ID 0500000010 Item 0000000030",
+	"CurrencyCode": "USD",
+	"GrossAmount": "361.280",
+	"NetAmount": "303.600",
+	"TaxAmount": "57.680",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000010",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1066",
+	"Note": "EPM DG: SO ID 0500000010 Item 0000000040",
+	"CurrencyCode": "USD",
+	"GrossAmount": "16.640",
+	"NetAmount": "13.980",
+	"TaxAmount": "2.660",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000010",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1067",
+	"Note": "EPM DG: SO ID 0500000010 Item 0000000050",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "21.400",
+	"NetAmount": "17.980",
+	"TaxAmount": "3.420",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000010",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1068",
+	"Note": "EPM DG: SO ID 0500000010 Item 0000000060",
+	"CurrencyCode": "USD",
+	"GrossAmount": "15.460",
+	"NetAmount": "12.990",
+	"TaxAmount": "2.470",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000010',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000010",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1069",
+	"Note": "EPM DG: SO ID 0500000010 Item 0000000070",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "49.980",
+	"NetAmount": "42.000",
+	"TaxAmount": "7.980",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000011',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000011',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000011",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1104",
+	"Note": "EPM DG: SO ID 0500000011 Item 0000000010",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "65.450",
+	"NetAmount": "55.000",
+	"TaxAmount": "10.450",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000011',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000011',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000011",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1105",
+	"Note": "EPM DG: SO ID 0500000011 Item 0000000020",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "103.530",
+	"NetAmount": "87.000",
+	"TaxAmount": "16.530",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000011',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000011',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000011",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1106",
+	"Note": "EPM DG: SO ID 0500000011 Item 0000000030",
+	"CurrencyCode": "MXN",
+	"GrossAmount": "121.380",
+	"NetAmount": "102.000",
+	"TaxAmount": "19.380",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000011',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000011',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000011",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1107",
+	"Note": "EPM DG: SO ID 0500000011 Item 0000000040",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "35.580",
+	"NetAmount": "29.900",
+	"TaxAmount": "5.680",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1000",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "2275.280",
+	"NetAmount": "1912.000",
+	"TaxAmount": "363.280",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1001",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000020",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "2972.620",
+	"NetAmount": "2498.000",
+	"TaxAmount": "474.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1002",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000030",
+	"CurrencyCode": "USD",
+	"GrossAmount": "3736.600",
+	"NetAmount": "3140.000",
+	"TaxAmount": "596.600",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1003",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000040",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "5890.500",
+	"NetAmount": "4950.000",
+	"TaxAmount": "940.500",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1007",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000050",
+	"CurrencyCode": "USD",
+	"GrossAmount": "711.620",
+	"NetAmount": "598.000",
+	"TaxAmount": "113.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1010",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000060",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "4757.620",
+	"NetAmount": "3998.000",
+	"TaxAmount": "759.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1011",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000070",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "2735.810",
+	"NetAmount": "2299.000",
+	"TaxAmount": "436.810",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='80')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='80')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "80",
+	"ProductId": "HT-1020",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000080",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "1092.420",
+	"NetAmount": "918.000",
+	"TaxAmount": "174.420",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='90')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000012',SoItemPos='90')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000012",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "90",
+	"ProductId": "HT-1021",
+	"Note": "EPM DG: SO ID 0500000012 Item 0000000090",
+	"CurrencyCode": "MXN",
+	"GrossAmount": "531.930",
+	"NetAmount": "447.000",
+	"TaxAmount": "84.930",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000013",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1022",
+	"Note": "EPM DG: SO ID 0500000013 Item 0000000010",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "1998.010",
+	"NetAmount": "1679.000",
+	"TaxAmount": "319.010",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000013",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1023",
+	"Note": "EPM DG: SO ID 0500000013 Item 0000000020",
+	"CurrencyCode": "USD",
+	"GrossAmount": "1827.840",
+	"NetAmount": "1536.000",
+	"TaxAmount": "291.840",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000013",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1030",
+	"Note": "EPM DG: SO ID 0500000013 Item 0000000030",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "547.400",
+	"NetAmount": "460.000",
+	"TaxAmount": "87.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000013",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1031",
+	"Note": "EPM DG: SO ID 0500000013 Item 0000000040",
+	"CurrencyCode": "GBP",
+	"GrossAmount": "678.300",
+	"NetAmount": "570.000",
+	"TaxAmount": "108.300",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000013",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1032",
+	"Note": "EPM DG: SO ID 0500000013 Item 0000000050",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "1231.650",
+	"NetAmount": "1035.000",
+	"TaxAmount": "196.650",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000013",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1035",
+	"Note": "EPM DG: SO ID 0500000013 Item 0000000060",
+	"CurrencyCode": "USD",
+	"GrossAmount": "949.620",
+	"NetAmount": "798.000",
+	"TaxAmount": "151.620",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000013',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000013",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1036",
+	"Note": "EPM DG: SO ID 0500000013 Item 0000000070",
+	"CurrencyCode": "CAD",
+	"GrossAmount": "1023.400",
+	"NetAmount": "860.000",
+	"TaxAmount": "163.400",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000014",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1040",
+	"Note": "EPM DG: SO ID 0500000014 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "987.700",
+	"NetAmount": "830.000",
+	"TaxAmount": "157.700",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000014",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1041",
+	"Note": "EPM DG: SO ID 0500000014 Item 0000000020",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "1166.200",
+	"NetAmount": "980.000",
+	"TaxAmount": "186.200",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000014",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1042",
+	"Note": "EPM DG: SO ID 0500000014 Item 0000000030",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "415.310",
+	"NetAmount": "349.000",
+	"TaxAmount": "66.310",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000014",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1050",
+	"Note": "EPM DG: SO ID 0500000014 Item 0000000040",
+	"CurrencyCode": "RUB",
+	"GrossAmount": "165.410",
+	"NetAmount": "139.000",
+	"TaxAmount": "26.410",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000014",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1051",
+	"Note": "EPM DG: SO ID 0500000014 Item 0000000050",
+	"CurrencyCode": "USD",
+	"GrossAmount": "117.810",
+	"NetAmount": "99.000",
+	"TaxAmount": "18.810",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000014',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000014",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1052",
+	"Note": "EPM DG: SO ID 0500000014 Item 0000000060",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "606.900",
+	"NetAmount": "510.000",
+	"TaxAmount": "96.900",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1055",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "353.430",
+	"NetAmount": "297.000",
+	"TaxAmount": "56.430",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1056",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000020",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "283.220",
+	"NetAmount": "238.000",
+	"TaxAmount": "45.220",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1060",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000030",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "10.710",
+	"NetAmount": "9.000",
+	"TaxAmount": "1.710",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1061",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000040",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "24.990",
+	"NetAmount": "21.000",
+	"TaxAmount": "3.990",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1062",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000050",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "26.180",
+	"NetAmount": "22.000",
+	"TaxAmount": "4.180",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1063",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000060",
+	"CurrencyCode": "BRL",
+	"GrossAmount": "16.660",
+	"NetAmount": "14.000",
+	"TaxAmount": "2.660",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='70')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='70')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "70",
+	"ProductId": "HT-1064",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000070",
+	"CurrencyCode": "CAD",
+	"GrossAmount": "38.080",
+	"NetAmount": "32.000",
+	"TaxAmount": "6.080",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='80')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='80')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "80",
+	"ProductId": "HT-1065",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000080",
+	"CurrencyCode": "CHF",
+	"GrossAmount": "92.820",
+	"NetAmount": "78.000",
+	"TaxAmount": "14.820",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='90')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000015',SoItemPos='90')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000015",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "90",
+	"ProductId": "HT-1066",
+	"Note": "EPM DG: SO ID 0500000015 Item 0000000090",
+	"CurrencyCode": "USD",
+	"GrossAmount": "16.640",
+	"NetAmount": "13.980",
+	"TaxAmount": "2.660",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000016',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000016',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000016",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1067",
+	"Note": "EPM DG: SO ID 0500000016 Item 0000000010",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "21.400",
+	"NetAmount": "17.980",
+	"TaxAmount": "3.420",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000016',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000016',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000016",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1068",
+	"Note": "EPM DG: SO ID 0500000016 Item 0000000020",
+	"CurrencyCode": "USD",
+	"GrossAmount": "15.460",
+	"NetAmount": "12.990",
+	"TaxAmount": "2.470",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000016',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000016',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000016",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1069",
+	"Note": "EPM DG: SO ID 0500000016 Item 0000000030",
+	"CurrencyCode": "JPY",
+	"GrossAmount": "33.320",
+	"NetAmount": "28.000",
+	"TaxAmount": "5.320",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000017',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000017',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000017",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1100",
+	"Note": "EPM DG: SO ID 0500000017 Item 0000000010",
+	"CurrencyCode": "USD",
+	"GrossAmount": "106.980",
+	"NetAmount": "89.900",
+	"TaxAmount": "17.080",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000017',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000017',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000017",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1107",
+	"Note": "EPM DG: SO ID 0500000017 Item 0000000020",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "71.160",
+	"NetAmount": "59.800",
+	"TaxAmount": "11.360",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000018',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000018',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000018",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1100",
+	"Note": "EPM DG: SO ID 0500000018 Item 0000000010",
+	"CurrencyCode": "USD",
+	"GrossAmount": "320.940",
+	"NetAmount": "269.700",
+	"TaxAmount": "51.240",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000018',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000018',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000018",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1101",
+	"Note": "EPM DG: SO ID 0500000018 Item 0000000020",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "285.240",
+	"NetAmount": "239.700",
+	"TaxAmount": "45.540",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000018',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000018',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000018",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1102",
+	"Note": "EPM DG: SO ID 0500000018 Item 0000000030",
+	"CurrencyCode": "USD",
+	"GrossAmount": "82.110",
+	"NetAmount": "69.000",
+	"TaxAmount": "13.110",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000018',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000018',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000018",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1103",
+	"Note": "EPM DG: SO ID 0500000018 Item 0000000040",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "183.260",
+	"NetAmount": "154.000",
+	"TaxAmount": "29.260",
+	"Quantity": "2.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='10')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='10')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000019",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "10",
+	"ProductId": "HT-1070",
+	"Note": "EPM DG: SO ID 0500000019 Item 0000000010",
+	"CurrencyCode": "ARS",
+	"GrossAmount": "253.110",
+	"NetAmount": "212.700",
+	"TaxAmount": "40.410",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='20')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='20')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000019",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "20",
+	"ProductId": "HT-1071",
+	"Note": "EPM DG: SO ID 0500000019 Item 0000000020",
+	"CurrencyCode": "ZAR",
+	"GrossAmount": "97.220",
+	"NetAmount": "81.700",
+	"TaxAmount": "15.520",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='30')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='30')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000019",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "30",
+	"ProductId": "HT-1072",
+	"Note": "EPM DG: SO ID 0500000019 Item 0000000030",
+	"CurrencyCode": "USD",
+	"GrossAmount": "361.280",
+	"NetAmount": "303.600",
+	"TaxAmount": "57.680",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='40')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='40')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000019",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "40",
+	"ProductId": "HT-1073",
+	"Note": "EPM DG: SO ID 0500000019 Item 0000000040",
+	"CurrencyCode": "EUR",
+	"GrossAmount": "166.590",
+	"NetAmount": "139.990",
+	"TaxAmount": "26.600",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='50')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='50')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000019",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "50",
+	"ProductId": "HT-1080",
+	"Note": "EPM DG: SO ID 0500000019 Item 0000000050",
+	"CurrencyCode": "INR",
+	"GrossAmount": "460.530",
+	"NetAmount": "387.000",
+	"TaxAmount": "73.530",
+	"Quantity": "3.000",
+	"QuantityUnit": "EA"
+}, {
+	"__metadata": {
+		"id": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='60')",
+		"uri": "http://vappsrv56.vesta.rizing.com:8000/sap/opu/odata/sap/ZJP_EPM_SO_SRV/SalesOrderItemSet(SoId='500000019',SoItemPos='60')",
+		"type": "ZJP_EPM_SO_SRV.SalesOrderItem"
+	},
+	"SoId": "500000019",
+	"DeliveryDate": "/Date(1503979200000)/",
+	"SoItemPos": "60",
+	"ProductId": "HT-1081",
+	"Note": "EPM DG: SO ID 0500000019 Item 0000000060",
+	"CurrencyCode": "PLN",
+	"GrossAmount": "105.910",
+	"NetAmount": "89.000",
+	"TaxAmount": "16.910",
+	"Quantity": "1.000",
+	"QuantityUnit": "EA"
+}]

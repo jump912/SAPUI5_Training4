@@ -1,0 +1,64 @@
+<mvc:View 
+	controllerName="com.rizing.demo.controller.Detail" 
+	xmlns:mvc="sap.ui.core.mvc" 
+	xmlns:core="sap.ui.core" 
+	xmlns="sap.m">
+	<Page id="detailPage" title="{i18n>detailTitle}">
+		<content>
+			<ObjectHeader
+					id="objectHeader"
+					title="{SoId}"
+					number="{GrossAmount}"
+					numberUnit="{CurrencyCode}"
+					numberState="{= ${GrossAmount} > 3000 ? 'Error' : 'Success' }" >
+			</ObjectHeader>
+			<Table id="table">
+				<headerToolbar>
+					<Toolbar>
+						<ToolbarSpacer/>
+						<SearchField placeholder="Product ID" showSearchButton="true" width="50%" search="onSearchFieldSearch"/>
+						<Button icon="sap-icon://popup-window" text="open dialog" press="openDialog"/>	
+					</Toolbar>
+				</headerToolbar>
+				<columns>
+					<Column>
+						<Text text="Sales Order"/>
+					</Column>
+					<Column>
+						<Text text="Delivery Date"/>
+					</Column>
+					<Column>
+						<Text text="Item Position"/>
+					</Column>
+					<Column>
+						<Text text="Product Id"/>
+					</Column>
+					<Column>
+						<Text text="Gross Amount"/>
+					</Column>
+					<Column>
+						<Text text="Net Amount"/>
+					</Column>
+					<Column>
+						<Text text="Tax Amount"/>
+					</Column>
+				</columns>
+				<items>
+					<ColumnListItem id="cli">
+						<cells>
+							<Text text="{SoId}"/>
+							<Text text="{path: 'DeliveryDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd-MMM-yyyy' }}"/>
+							<Text text="{SoItemPos}"/>
+							<Text text="{ProductId}"/>
+							
+							<ObjectNumber number="{GrossAmount}" state="{= ${GrossAmount} > 5000 ? 'Error' : 'Success' }"/>
+							<ObjectNumber number="{NetAmount}" state="{= ${NetAmount} > 5000 ? 'Error' : 'Success' }"/>
+							<ObjectNumber number="{TaxAmount}" state="{= ${TaxAmount} > 5000 ? 'Error' : 'Success' }"/>
+						</cells>
+					</ColumnListItem>
+				</items>
+			</Table>
+
+		</content>
+	</Page>
+</mvc:View>
